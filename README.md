@@ -1,2 +1,2 @@
 # margitring2
- ER Mod
+ Elden Ring Mod
